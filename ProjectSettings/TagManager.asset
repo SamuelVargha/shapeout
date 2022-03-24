@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayerSquare
+  - PlayerDamage
+  - Enemy
+  - Bullets
+  - Base
+  - EnBullets
+  - Foreground
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PlayerSquare
+  - Foreground
+  - Background
+  - Enemies
+  - HitPlayer
+  - Base
+  - Nades
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 409770361
+    locked: 0
+  - name: Decorations
+    uniqueID: 4119288923
+    locked: 0
+  - name: Foreground2
+    uniqueID: 3472697943
+    locked: 0
+  - name: Foreground
+    uniqueID: 1775033027
+    locked: 0
